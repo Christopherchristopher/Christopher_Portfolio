@@ -1,7 +1,7 @@
 # Christopher_Portfolio
 Example Data science portfolio
 
-# Project 1: Churn in the Telecom Industry : Project Overview
+# [Project 1: Churn in the Telecom Industry : Project Overview] (https://github.com/Christopherchristopher/Telecommunication-Churn)
 Churning is a common and a major business problem facing business in major industries. Whether in the Communication, Real Estate, Health, Aviation, or the Hospitality Industry. A churned customer provides less or zero revenue and also increase competitor market share. So therefore, there is a need to manage churning. Which is why customer retention strategies is at the fore to address this problem. This project aimed at understanding why customers churn and building a predictive model to know what kind of customers will churn next.  It consists of the Exploratory Data Analysis and subsequently, machine learning modeling of churning customers.
 
 I started out by importing our dataset into my Jupyter notebook, and printing out the first five and last five roles just to have an overview of the kind of data I will be working with.
