@@ -31,7 +31,7 @@ Model Building Importing the relevant libraries and classifiers.
 
 
 
-# Project 2: Staff_Absenteeism
+# [Project 2: Staff_Absenteeism in the work Place](https://github.com/Christopherchristopher/Staff_Absenteeism)
 
 This an Explanatory Data Analysis and a Predictive Machine Learning model  building for absenteeism in the workplace
 The business environment is becoming more competitive than it use to be which leads to increase pressure in the workplace.It is then reasonable to say that unacheiveable business goals and the elevated risk of unemployemnent can lead to increase stress levels which affects the employee and his attitude towrard work,This might result to minor ilness which might make the employee be absent from work. We want to develop a  machine learning model that predicts employee abseenteeism from work.
