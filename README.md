@@ -29,6 +29,9 @@ Model Building Importing the relevant libraries and classifiers.
 4.Model check: We check the accuracy of our model, confusion_matrix and classification report and not satisfied with the accuracy because of how low our accuracy was, we then employed the oversampling technique.
 
 
+[](https://github.com/Christopherchristopher/Christopher_Portfolio/blob/main/images/tels.png)
+
+
 
 
 # [Project 2: Staff_Absenteeism in the work Place](https://github.com/Christopherchristopher/Staff_Absenteeism)
